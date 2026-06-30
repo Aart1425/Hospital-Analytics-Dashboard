@@ -116,7 +116,6 @@ Hospital-Analytics-Dashboard
 ├── Hospital_Database.sql
 ├── dashboard.png
 ├── README.md
-└── LICENSE
 ```
 
 ---
